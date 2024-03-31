@@ -38,7 +38,7 @@ img {
 .container {
    max-width: 1400px;
    margin: 150px auto;
-   padding: 0 40px;
+   padding: 0 2rem;
 }
 
 article {
@@ -132,6 +132,7 @@ article {
 }
 
 .galery {
+   padding: 0 1rem;
    grid-template-columns: 2fr 4fr;
 }
 
@@ -239,6 +240,10 @@ article {
    height: 34px;
 }
 
+.projects{
+   padding: 0 1rem;
+}
+
 .project {
    align-items: center;
    margin-bottom: 200px;
@@ -266,6 +271,10 @@ article {
 
    .intro p {
       top: 0;
+   }
+
+   .galery img:nth-last-child(1){
+      ima
    }
 
    .project {
