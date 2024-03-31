@@ -240,7 +240,7 @@ article {
    height: 34px;
 }
 
-.projects{
+.projects {
    padding: 0 1rem;
 }
 
@@ -271,10 +271,6 @@ article {
 
    .intro p {
       top: 0;
-   }
-
-   .galery img:nth-last-child(1){
-      ima
    }
 
    .project {
